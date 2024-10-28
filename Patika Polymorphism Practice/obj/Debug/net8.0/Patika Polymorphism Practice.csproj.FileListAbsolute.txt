@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\bin\Debug\net8.0\Patika Polymorphism Practice.exe
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\bin\Debug\net8.0\Patika Polymorphism Practice.deps.json
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\bin\Debug\net8.0\Patika Polymorphism Practice.runtimeconfig.json
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\bin\Debug\net8.0\Patika Polymorphism Practice.dll
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\bin\Debug\net8.0\Patika Polymorphism Practice.pdb
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.AssemblyInfo.cs
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.sourcelink.json
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.dll
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\refint\Patika Polymorphism Practice.dll
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.pdb
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\Patika Polymorphism Practice.genruntimeconfig.cache
+C:\Users\User\Desktop\Patika Polymorphism Practice\Patika Polymorphism Practice\obj\Debug\net8.0\ref\Patika Polymorphism Practice.dll
